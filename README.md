@@ -151,10 +151,11 @@ Potential improvements for future versions include:
 
 # Project Links
 
-*GitHub Repository:
+*GitHub Repository: https://github.com/richardbernardin26-dev/Shark-Explorer
 
-*Live Streamlit Application:
+*Live Streamlit Application: https://shark-explorer-uk7se6u2c869tfparr4ygp.streamlit.app/
 
-## Author
+# Author
+Richard Bernardin
 
 Developed as part of CIS 3590 – Internship-Ready Software Development.
